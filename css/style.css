@@ -223,3 +223,25 @@
     opacity: 6;
     text-decoration: none;
 }
+.form-1 {
+	width: 90%;
+	max-width: 500px;
+    
+}
+.input-holder lable {
+	display: block;
+	margin-bottom: 5px;
+}
+.input-1 {
+	border: 2px solid #ccc;
+	width: 100%;
+	padding: 10px;
+	font-size: 15px;
+	outline: none;
+	border-radius: 5px;
+	display: block;
+}
+
+.input-1:focus{
+	border-color: #555;
+}
